@@ -2,6 +2,10 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  max-width: 100%;
+  border: 1px solid black;
+  margin: auto;
+  justify-content: center;
 }
 
 .black_box_button {
@@ -16,9 +20,8 @@
   margin-top:60px;
 }
 
-.first_box {
-  justify-content: space-between;
-}
+
+
 
 .rates {
   display: flex;
@@ -31,10 +34,12 @@
 
 .identifying {
   margin: 100px 100px 100px 100px;
-  font-size:xx-large;
-width:900px;
+width:500px;
 max-width: 100%;
 }
 .star {
   margin-left: 120px;
+}
+.identifying h1{
+  font: size 22px;
 }
