@@ -3,7 +3,6 @@
   flex-wrap: wrap;
   align-items: center;
   max-width: 100%;
-  border: 1px solid black;
   margin: auto;
   justify-content: center;
 }
@@ -30,6 +29,7 @@
 }
 .texters {
   font-size: small;
+  margin: 8px 10px 100px -10px;
 }
 
 .identifying {
@@ -38,8 +38,14 @@ width:500px;
 max-width: 100%;
 }
 .star {
-  margin-left: 120px;
+  display:flex;
+  margin: 10px;
+  justify-content:space-evenly ;
 }
 .identifying h1{
   font: size 22px;
 }
+
+
+
+

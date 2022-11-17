@@ -5,8 +5,8 @@ import styles from "../styles/Navbar.module.css"
 export default function  Navbar (){
   return (
     <div className={styles.navbar}>
-    <div>
-      <img
+    
+      <div>  <img className={styles.logo}
         src="https://d21b0h47110qhi.cloudfront.net/old-free/logo-1e0f7LNTQLtqrsV.png"
       />
     </div>
