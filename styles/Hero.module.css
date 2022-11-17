@@ -1,0 +1,40 @@
+.first_box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.black_box_button {
+  display: flex;
+  background-color: #282a3a;
+  padding: 14px 24px;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+  margin-top:60px;
+}
+
+.first_box {
+  justify-content: space-between;
+}
+
+.rates {
+  display: flex;
+  align-items: center;
+  justify-content:center ;
+}
+.texters {
+  font-size: small;
+}
+
+.identifying {
+  margin: 100px 100px 100px 100px;
+  font-size:xx-large;
+width:900px;
+max-width: 100%;
+}
+.star {
+  margin-left: 120px;
+}

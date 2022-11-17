@@ -1,0 +1,48 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  .container img {position: relative;}
+  
+  
+  .top {
+    position:absolute;
+    top: 50px;
+    left: 100px;
+    right:100px;
+  font-size: xx-large;}
+
+
+    .whitebar{
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      background-color: rgb(255, 255, 255);
+      position: absolute;
+      margin: auto;
+      max-width: 100%;
+      /* width: 100%; */
+     /* position:fixed; */
+     top: 129px;
+   /* left:100px; */
+   /* right:100px; */
+   padding: 30px;
+  } 
+  .full_width{
+    width: 100%;
+    max-width: 100%;
+    justify-content: center;
+    display: flex;
+  }
+
+   .whitebar img {
+    margin:0px 40px;
+   }
+.img_width {
+    width: 100%;
+    max-width: 100%;
+}
+
+
+

@@ -1,0 +1,55 @@
+.black {
+    width: 58px;
+    height: 58px;
+    margin: auto;
+    background: #242424;
+    border-radius: 8px;
+    text-align: center;
+    /* border: 1px solid black; */
+  
+  }
+  .msg {
+    margin-top: 13px;
+  }
+  .block {
+    /* border: 1px solid black; */
+    padding: 12px 14px;
+    width: 200px;
+    margin: 10px auto 10px auto;
+    text-align: center;
+    justify-content: center;
+    display: block;
+  }
+  .block h3 {
+    margin-top: 20px;
+    font-family: "Plus Jakarta Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    color: #242424;
+    text-align: center;
+  }
+  .block p{
+      color: #5A5A5A;
+      font-size: 22px;
+      text-align: center;
+      margin-top: 10px;
+  }
+  
+  .flex{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      /* margin-top: 100px; */
+      margin: 50px auto auto auto;
+      /* border: 1px solid black; */
+      width: 1280px;
+      max-width: 100%;
+  }
+  
+  @media screen and (max-width: 750px) {
+    .flex{
+      flex-direction: column;
+  
+    }
+  }
