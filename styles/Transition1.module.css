@@ -3,7 +3,7 @@
     width: 340px;
     /* border: 1px solid black; */
   }
-  .buttons button {
+  .buttons button {  
     cursor: text;
     margin: 12px 12px 12px 0px;
   }
@@ -69,7 +69,7 @@
       font-weight: 700;
       font-size: 22px;
       line-height: 53px;
-      color: #242424;
+      color: #ff1d1d;
       /* border: 1px solid rgb(255, 0, 0); */
       width: 370px;
     }
@@ -158,7 +158,7 @@
       justify-content: center;
       align-items: center;
       height: fit-content;
-      /* position: absolute; */
+      
     }
     .flex_launch {
       text-align: center;
@@ -182,7 +182,7 @@
     }
     .flex_one_flex {
       margin-top: 700px !important;
-      position: absolute;
+    
       /* border: 1px solid black; */
       padding: 10px 10px;
       width: 100%;
@@ -256,7 +256,7 @@
     }
     
     .flex_two{
-      border: 1px solid black;
+      border: 1px solid rgb(255, 255, 255);
       justify-content: center;
       display: block;
       align-items: center;
@@ -276,7 +276,6 @@
     margin: auto;
     max-width: 100%;
     /* border: 1px solid black; */
-    position: relative;
     padding: 20px 20px;
     display: flex;
     flex-wrap: wrap;
@@ -288,12 +287,13 @@
     animation-direction: alternate;
     animation-duration: 4.5s;
   }
-  .img {
+  .main1 {
     width: auto;
     max-width: 100%;
     height: auto;
     max-height: 100%;
-  }
+    position:absolute; left:80px; top:10px;}
+  
   .block {
     display: block;
     /* border: 1px solid red; */
@@ -354,7 +354,6 @@
   .flex_two {
     width: 1280px;
     max-width: 100%;
-    position: relative;
     padding: 20px 20px;
     display: flex;
     flex-wrap: wrap;
@@ -380,7 +379,7 @@
     font-weight: 700;
     font-size: 42px;
     line-height: 53px;
-    color: #242424;
+    color: #fffcfc;
   }
   .block2 p {
     font-weight: 300;
@@ -388,7 +387,7 @@
     font-style: normal;
     font-size: 20px;
     line-height: 30px;
-    color: #5a5a5a;
+    color: #ffffff;
     margin: 12px 0px;
     /* width: 410px; */
   }
@@ -404,7 +403,7 @@
     margin-top: 50px;
   }
   .flex_launch {
-    position: absolute;
+    
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -423,7 +422,7 @@
     margin: 0px 40px 0px 40px;
   }
   .launch_img {
-    /* position: absolute; */
+    
     margin-top: -110px;
     margin-right: -10px;
   }
@@ -432,7 +431,7 @@
     height: 56px;
     transition-duration: 0.2s;
     transition: 0.2s;
-    background: #282a3a;
+    background: #ffffff;
     border-radius: 8px;
     padding: 10px 16px;
     color: white;
@@ -467,7 +466,6 @@
     width: 280px;
     height: 50px;
     content: "";
-    position: absolute;
     inset: 17.2em;
      margin-left: -100px; 
      top: 4px;
@@ -492,7 +490,7 @@
     background-position: 200px;
     height: 50px;
     content: "";
-    position: absolute;
+   
     inset: 17.2em;
      margin-left: -100px; 
     top: 4px;

@@ -10,18 +10,19 @@ const Transition1 = () => {
       <div className={styles.topics}>
         <div className={styles.flex_one}>
           <div className={styles.block}>
-            <h2>Transition1</h2>
-            <p>
+            <h2 className="io">TOPIC MODEL
+            </h2>
+            <p className={styles.slide1}>
               Topic Model is the ultimate research tool for any topic. It
               fetches the data from all over the web that helps you to create
-              engaging content.{" "}
+              engaging content.
             </p>
             <div className={styles.button}>
-              <Button />
-            </div>
-          </div>
-          <div className={styles.img}>
-            <Image className={styles.img_img} src={main1} />
+            
+            
+          
+          <div className={styles.main1}>
+            <Image src={main1} />
           </div>
         </div>
         <div className={styles.flex_two}>
@@ -35,7 +36,7 @@ const Transition1 = () => {
               understand users’ needs using Question Finder.
             </p>
             <div className={styles.button}>
-              <Button/>
+            
             </div>
           </div>
         </div>
@@ -47,7 +48,7 @@ const Transition1 = () => {
               most unique and new searches around your query.
             </p>
             <div className={styles.button}>
-              <Button />
+             
             </div>
           </div>
           <div className={styles.img}>
@@ -55,7 +56,9 @@ const Transition1 = () => {
           </div>
         </div>
       </div>
-    
+      </div>
+      </div>
+   -
   );
 };
 
