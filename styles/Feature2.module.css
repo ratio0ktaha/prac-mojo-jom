@@ -1,5 +1,39 @@
-.topics{
+.allin{
     display: flex;
-    justify-content: space-evenly;
-    margin-bottom: 100px;
+    flex-direction: column;
+     margin-left: 351px;
+    margin-top: 175px;
+   
+
+
 }
+
+
+
+
+.something{
+    margin-left: 944px;
+    display: flex;
+    margin-top: -341px;
+
+
+}
+.header{
+     
+}
+
+
+
+.paragraph{
+    
+    display: flex;
+
+}
+
+
+
+
+
+.button{
+
+    margin-left: 400px;}
