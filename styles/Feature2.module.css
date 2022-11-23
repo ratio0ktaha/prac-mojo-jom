@@ -1,39 +1,23 @@
-.allin{
+.allin {
     display: flex;
     flex-direction: column;
-     margin-left: 351px;
-    margin-top: 175px;
-   
-
-
+    margin-left: 351px;
+    margin-top: 240px;
+    align-items: flex-start;
 }
 
-
-
-
-.something{
-    margin-left: 944px;
-    display: flex;
-    margin-top: -341px;
-
-
+.something {
+  margin-left: 944px;
+  display: flex;
+  margin-top: -341px;
 }
-.header{
-     
+.header {
 }
 
-
-
-.paragraph{
-    
-    display: flex;
-
+.paragraph {
+  display: flex;
 }
 
-
-
-
-
-.button{
-
-    margin-left: 400px;}
+.press {
+  margin-left: 400px;
+}
