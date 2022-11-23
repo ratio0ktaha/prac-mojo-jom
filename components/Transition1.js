@@ -1,28 +1,27 @@
 import Image from "next/image";
-import styles from "../styles/Transition1.module.css";
-import Button from "../components/Button.js"
+import styles from "../styles/transition1.module.css";
+import Buttons from "./Button";
 import main1 from "../public/images/main1.png";
 import main2 from "../public/images/main2.png";
 import main3 from "../public/images/main3.png";
-const Transition1 = () => {
+const Topics = () => {
   return (
     
       <div className={styles.topics}>
         <div className={styles.flex_one}>
           <div className={styles.block}>
-            <h2 className="io">TOPIC MODEL
-            </h2>
-            <p className={styles.slide1}>
+            <h2>Topic Model</h2>
+            <p>
               Topic Model is the ultimate research tool for any topic. It
               fetches the data from all over the web that helps you to create
-              engaging content.
+              engaging content.{" "}
             </p>
-            <div className={styles.button}>
-            
-            
-          
-          <div className={styles.main1}>
-            <Image src={main1} />
+            <div className={styles.buttons}>
+              <Buttons />
+            </div>
+          </div>
+          <div className={styles.img}>
+            <Image className={styles.img_img} src={main1} />
           </div>
         </div>
         <div className={styles.flex_two}>
@@ -35,8 +34,8 @@ const Transition1 = () => {
               Gather questions about your topic across the web so you can easily
               understand users’ needs using Question Finder.
             </p>
-            <div className={styles.button}>
-            
+            <div className={styles.buttons}>
+              <Buttons />
             </div>
           </div>
         </div>
@@ -47,8 +46,8 @@ const Transition1 = () => {
               Search listener will help you be the first to cover all of the
               most unique and new searches around your query.
             </p>
-            <div className={styles.button}>
-             
+            <div className={styles.buttons}>
+              <Buttons />
             </div>
           </div>
           <div className={styles.img}>
@@ -56,10 +55,8 @@ const Transition1 = () => {
           </div>
         </div>
       </div>
-      </div>
-      </div>
-   -
+    
   );
 };
 
-export default Transition1
+export default Topics;

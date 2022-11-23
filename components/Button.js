@@ -1,9 +1,9 @@
-import styles from "../styles/Transition1.module.css";
+import styles from "../styles/transition1.module.css";
 
-const Button = () => {
+const Buttons = () => {
   return (
     <div>
-      <div className={styles.button}>
+      <div className={styles.buttons}>
         <button className={styles.button_one}>Saved lists</button>
         <button className={styles.button_two}>Workspaces</button>
         <button className={styles.button_three}>Custom Domains</button>
@@ -14,4 +14,6 @@ const Button = () => {
   );
 };
 
-export default Button;
+export default Buttons;
+
+

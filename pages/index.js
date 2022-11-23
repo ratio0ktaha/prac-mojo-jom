@@ -2,19 +2,22 @@ import Navbar from "../components/Navbar"
 import Hero from "../components/Hero"
 import Feature from "../components/Feature"
 import Icondisplay from "../components/Icondisplay"
-import Button from "../components/Button"
 import Transition1 from "../components/Transition1"
+import Buttons from "../components/Button"
+import Cta from "../components/Cta"
+// import Cta from "../components/cta"
 
 
 export default function Home() {
   return (
     <div>
-      <Button />
-      <Navbar />
+      {/* <Cta/> */}
+       <Navbar />
       <Hero />
       <Feature />
       <Icondisplay/>
       <Transition1 />
+      <Cta/>
     </div>
   )
 }
