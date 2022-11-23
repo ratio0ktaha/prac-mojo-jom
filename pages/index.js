@@ -5,12 +5,15 @@ import Icondisplay from "../components/Icondisplay"
 import Transition1 from "../components/Transition1"
 import Buttons from "../components/Button"
 import Cta from "../components/Cta"
+import Feature2 from"../components/Feature2"
+
 // import Cta from "../components/cta"
 
 
 export default function Home() {
   return (
     <div>
+
       {/* <Cta/> */}
        <Navbar />
       <Hero />
@@ -18,6 +21,7 @@ export default function Home() {
       <Icondisplay/>
       <Transition1 />
       <Cta/>
+      <Feature2/>
     </div>
   )
 }
