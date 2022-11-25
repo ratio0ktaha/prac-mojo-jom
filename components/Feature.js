@@ -15,6 +15,7 @@ export default function Feature() {
                   <img src="../images/image 3108.png"/>
                   <img src="../images/image 3109.png"/>
                  <img src="../images/image 3110.png"/>
+                 <img src="../images/images 3110.png"/>
                   
           </div>
                 </div>

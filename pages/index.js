@@ -7,6 +7,7 @@ import Buttons from "../components/Button";
 import Cta from "../components/Cta";
 import Feature2 from "../components/Feature2";
 import Cards from "../components/Card";
+import Platform from "../components/Platform";
 
 // import Cta from "../components/cta"
 
@@ -22,6 +23,7 @@ export default function Home() {
       <Cta />
       <Feature2 />
       <Cards />
+      <Platform/>
     </div>
   );
 }

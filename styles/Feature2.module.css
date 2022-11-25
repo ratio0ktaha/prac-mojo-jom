@@ -1,23 +1,11 @@
-.allin {
-    display: flex;
-    flex-direction: column;
-    margin-left: 351px;
-    margin-top: 240px;
-    align-items: flex-start;
+
+.flex{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin:auto;
 }
 
-.something {
-  margin-left: 944px;
-  display: flex;
-  margin-top: -341px;
-}
-.header {
-}
 
-.paragraph {
-  display: flex;
-}
 
-.press {
-  margin-left: 400px;
-}
+

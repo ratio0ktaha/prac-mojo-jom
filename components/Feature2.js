@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Feature2() {
   return (
-    <>
+    <div className={styles.flex}>
       <div className={styles.allin}>
         <div className={styles.header}>
           <h2>
@@ -25,6 +25,6 @@ export default function Feature2() {
       <div className={styles.img}>
         <Image className={styles.something} src={main4} />
       </div>
-    </>
+    </div>
   );
 }

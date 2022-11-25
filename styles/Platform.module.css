@@ -1,0 +1,24 @@
+.king {
+    padding: 0%;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    max-width: 1152px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    text-align: -webkit-center;
+    tab-size: 4;
+    box-sizing: border-box;
+    font-size: 42px;
+}
+
+.head{
+    font-size: 42px;
+    line-height: 52px;
+    font-weight: 700;
+    margin: 0;
+    box-sizing: border-box;
+    border: 0 solid;
+}
+
+
