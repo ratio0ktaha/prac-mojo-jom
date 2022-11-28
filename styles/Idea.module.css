@@ -1,0 +1,49 @@
+.owner{
+    width: 100%;
+    max-width: 100%;
+position: relative;
+}
+
+
+
+
+
+
+.flexer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.flexer Image { 
+    display: flex;
+
+
+}
+
+
+
+.flexer p{
+    border: 1px solid black;
+    max-width: 100%;
+    margin: auto;
+    position: relative;
+    top: -340px;
+    z-index: 1;
+
+}
+
+
+.flexer h3{
+  
+    border: 1px solid black;
+    /* max-width: 100%; */
+    /* width:1400px; */
+    margin: auto;
+    position:relative;
+    top: -350px;
+    z-index: 1;
+}
+
+
+
