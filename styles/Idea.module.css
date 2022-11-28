@@ -4,19 +4,27 @@
 position: relative;
 }
 
-
+.bg{
+width: 100%;
+max-width: 100%;
+position: relative;
+}
 
 
 
 
 .flexer{
     display: flex;
-    justify-content: center;
+    justify-content: center space-between;
     flex-direction: column;
+    
 }
-
+/* 
 .flexer Image { 
     display: flex;
+    width: 100%;
+    max-width: 100%;
+position: relative;
 
 
 }
@@ -39,11 +47,8 @@ position: relative;
     border: 1px solid black;
     /* max-width: 100%; */
     /* width:1400px; */
-    margin: auto;
+    /* margin: auto;
     position:relative;
     top: -350px;
     z-index: 1;
-}
-
-
-
+} */ 
