@@ -10,7 +10,7 @@ const Idea = () => {
 <div className={styles.owner}>
 <Image className={styles.bg} src={bg} />
 <div className={styles.flexer}>
-<img
+<Image className={light} src={light}/>
     <h3>Running out of content ideas?</h3>
     <p>Fear not, we have the perfect solution for you</p>
    </div>
