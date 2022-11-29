@@ -9,6 +9,8 @@ import Feature2 from "../components/Feature2";
 import Cards from "../components/Card";
 import Platform from "../components/Platform";
 import Idea from "../components/Idea"
+import Penny from "../components/Penny";
+
 
 // import Cta from "../components/cta"
 
@@ -26,6 +28,7 @@ export default function Home() {
       <Cards />
       <Platform/>
       <Idea/>
+      <Penny/>
     </div>
   );
 }

@@ -14,7 +14,7 @@
 .text {
     display: flex;
     align-items: center; 
-    border: 1px solid black;
+    /* border: 1px solid black; */
     max-width: 100%;
     width:1400px;
     margin: auto;

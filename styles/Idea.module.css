@@ -2,23 +2,68 @@
     width: 100%;
     max-width: 100%;
 position: relative;
+margin-top:100px;
+margin-bottom: 300px;
 }
 
 .bg{
 width: 100%;
 max-width: 100%;
 position: relative;
+height: auto;
+
 }
 
 
 
 
 .flexer{
-    display: flex;
-    justify-content: center space-between;
-    flex-direction: column;
-    
+   max-width: 100%;
+   width: 800px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: -500px;
+    justify-content: space-between;
+
+
 }
+.button90{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+
+}
+
+.flexer h3{
+    font-size: 52px;
+
+}
+
+.flexer p{font-size: 26px;
+}
+
+/* 
+.button1{
+    font-size: 6px;
+    color: black;
+    border-radius: 20px;
+    background-color: rgb(247 234 255)
+}
+ */
+
+
+
+
+
+
+
+
+
+
+
 /* 
 .flexer Image { 
     display: flex;

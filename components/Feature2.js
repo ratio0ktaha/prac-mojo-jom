@@ -18,7 +18,7 @@ export default function Feature2() {
             the easiest and most effective way to do topic research.
           </p>
         </div>
-        <button className="press">Learn more
+        <button className={styles.press}>Learn more
         </button>
       </div>
 

@@ -11,9 +11,9 @@ export default function Hero() {
         </div>
 
         <button className={herostyles.black_box_button}>Get Started at $10/mo</button>
-        <div className={herostyles.rates}>
-          <p className={herostyles.texters}>Trusted by 19000+ users </p>
+
           <div className={herostyles.star}>
+          <p>Trusted by 19000+ users </p>
             <img src="images/star 5.png" alt="stars" />
           <img src="images/star.png" alt="stars" />
           </div>
@@ -21,7 +21,6 @@ export default function Hero() {
            
             
           
-        </div>
       </div>
       <div className={herostyles.image_target}>
         <img src="images/hero_img.png" alt="target" />
