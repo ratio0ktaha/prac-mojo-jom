@@ -10,6 +10,7 @@ import Cards from "../components/Card";
 import Platform from "../components/Platform";
 import Idea from "../components/Idea"
 import Penny from "../components/Penny";
+import Longercards from "../components/Longercards";
 
 
 // import Cta from "../components/cta"
@@ -29,6 +30,10 @@ export default function Home() {
       <Platform/>
       <Idea/>
       <Penny/>
+     <Longercards/>
+
+
+      
     </div>
   );
 }

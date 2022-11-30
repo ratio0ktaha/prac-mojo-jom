@@ -1,0 +1,11 @@
+.output1{  
+       background-color: black;
+       max-width: 100%;
+  text-align: center;
+  border-radius: 6px;
+  width: 300px;
+  height: 200px;
+  display: block;
+  margin: 20px auto 10px auto;
+
+        }
