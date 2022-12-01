@@ -12,6 +12,8 @@ import p_nine from "../public/images/p9.png";
 
 const Platform = () => {
   return (
+    <div className={styles.glimpse}>
+      <div className={styles.joji}>Platform Features</div>
     <div className={styles.pure}>
       
       
@@ -100,7 +102,7 @@ const Platform = () => {
       </div>
       </div>
     
-            
+      </div>
   );
 };
 

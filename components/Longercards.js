@@ -1,5 +1,6 @@
 import styles from"../styles/Longercards.module.css";
 import images from "../public/images/sleeping.png";
+import images1 from "../public/images/wahman.png";
 import Image from "next/image";
 
 import React from 'react'
@@ -50,10 +51,27 @@ export default function Longercards() {
              </div>
 
                 </div>
+                <div className={styles.output2}>
+                <Image className={styles.wahman} src={images1}/>
+                <h2 className={styles.aa}>Free</h2>
+                <p className={styles.bb}>free forever</p>
+                <div className=".styles.tue">
+                <p className={styles.cc}>$</p>
+                <p className={styles.dd}>0</p>
+                <p className={styles.ee}>billed</p>
+                
+                <button className={styles.ff}><b>Chosse</b></button>
+                <div className={styles.words}>
+                    
+                </div>
+                
+                </div>
+        
                
                   
            
           
+    </div>
     </div>
             
     );

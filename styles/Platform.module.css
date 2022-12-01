@@ -1,16 +1,30 @@
  .pure{ 
-    display:flex;
-    flex-wrap: wrap;
-    /* flex-direction: row; */
-    justify-content: center;
-    margin :auto;
-    /* flex-direction: column; */
-    max-width: 100%;
-    width: 1200px;
-     /* border: 1px solid black; */
+   display: flex;
+   flex-wrap: wrap;
+   /* flex-direction: row; */
+   justify-content: center;
+   margin: 117px auto 98px auto;
+   /* flex-direction: column; */
+   max-width: 100%;
+   width: 1200px;
+   /* border: 1px solid black;; */
  }
  .pure div {
     /* border: 1px solid red; */
     padding: 10px;
     width: 350px;
  }
+
+ .joji{ margin: 151px 0px 0px 0px;
+display: flex;
+justify-content: space-evenly;
+font-size: 100px;
+/* font-weight: 300px; */
+line-height: 52px;
+font-size: 42px;
+font-weight: 700;
+}
+
+
+
+

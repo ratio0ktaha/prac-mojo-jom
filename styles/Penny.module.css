@@ -1,14 +1,14 @@
 .head{
-    display: flex; 
- justify-content: center;
-max-width: 100%;
-/* width: 500px; */
-margin: auto;
-/* margin-bottom: 500px; */
-border: 1px solid black;
-text-align: center;
-flex-direction: column;
-align-items: center;
+    display: flex;
+    /* justify-content: center; */
+    /* max-width: 100%; */
+    /* width: 673px; */
+    margin: -197px auto auto auto;
+    /* margin-bottom: 500px; */
+    /* border: 1px solid black; */
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
     }
 
 

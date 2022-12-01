@@ -13,16 +13,17 @@ height: auto;
 
 
 .flexer{
-   max-width: 100%;
-   width: 800px;
-    margin: auto;
+    max-width: 100%;
+    width: 1000px;
+    margin: -34px auto 0px;
     text-align: center;
     position: relative;
     top: -550px;
     justify-content: space-between;
-
-
 }
+
+
+
 .button90{
     background-color: black;
     color: aliceblue;

@@ -36,7 +36,7 @@
          margin: 1px;
      } 
 
-        .e {       position: relative;
+        .e {  position: relative;
             left: 100px;
             top: -93px;
             color: white;
@@ -66,3 +66,45 @@
         
 
 
+.output2{  
+    background-color: rgb(199, 0, 0);
+    max-width: 100%;
+    border-radius: 77px;
+    width: 370px;
+
+    margin: 20px auto 10px auto;
+    padding: 35px 42px;}
+
+    .aa{position: relative;
+        left: -1px;
+        color: rgb(1, 0, 0);}
+    .bb{position: relative;
+        left: -1px;
+        color: gray;}
+    .cc{position: relative;
+        left: -16px;
+        top: -2px;
+color: white;
+     font-size: 20px;}
+    .dd{position: relative;
+                   top: -50px;        
+                  left: -10px;
+                color: white;
+                font-size: 100px;
+                margin: 1px;}
+    .ee{position: relative;
+        left: 100px;
+        top: -93px;
+        color: white;}
+
+        
+    .ff{position: relative;
+        top:-80px;
+        background-color: rgb(0, 0, 0);
+        color: rgb(240, 240, 240);
+        padding: 15px 120px 15px 120px;
+        /* border-color: chartreuse; */
+        border-radius: 30px;
+        cursor: pointer;}
+
+      
