@@ -29,18 +29,15 @@
     max-width: 100%;
     margin: auto;
     align-items: center;
-    justify-content: center;
-    padding: 30px 40px;
+    justify-content: space-between;
+    padding: 30px 401px 30px 500px;
   }
   
   
 .logo{
   display:flex;
-  transform-origin: 0% 0%;
-
-
-}
   
+}  
   
   
     

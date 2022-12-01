@@ -28,8 +28,10 @@ align-items: center;
  display: flex;
     background-color: black;
     max-width: 100%;
-    width: 90px;
-    padding:5px;
+
+    width: 65px;
+
+    padding:2px;
     border-radius: 20px;
     /* text-align: center; */
 

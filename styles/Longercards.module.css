@@ -1,11 +1,68 @@
 .output1{  
-       background-color: black;
-       max-width: 100%;
-  text-align: center;
-  border-radius: 6px;
-  width: 300px;
-  height: 200px;
-  display: block;
-  margin: 20px auto 10px auto;
+    background-color: black;
+    max-width: 100%;
+    border-radius: 77px;
+    width: 370px;
+
+    margin: 20px auto 10px auto;
+    padding: 35px 42px;}
+
+        .a{
+            position: relative;
+            left: -1px;
+            color: white;
+        }
+
+        .b{position: relative;
+            left: -1px;
+            color: gray;
+            
 
         }
+        /* .mon{display: flex;
+        flex-direction: row;} */
+
+        .c{position: relative;
+            left: -16px;
+            top: -2px;
+    color: white;
+         font-size: 20px;}
+
+         .d  { position: relative;
+ 
+ top: -50px;           left: -10px;
+         color: white;
+         font-size: 100px;
+         margin: 1px;
+     } 
+
+        .e {       position: relative;
+            left: 100px;
+            top: -93px;
+            color: white;
+        }
+
+        .f{position: relative;
+            top:-80px;
+            background-color: white;
+            color: rgb(0, 0, 0);
+            padding: 15px 120px 15px 120px;
+            /* border-color: chartreuse; */
+            border-radius: 30px;
+            cursor: pointer;
+        }
+        .words {
+              color: white;
+}
+.tap{
+    position: relative;
+    top: -20px;
+    left: 20px;
+    /* margin-top: 20px;/ */
+    
+
+}
+
+        
+
+
