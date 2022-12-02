@@ -11,7 +11,7 @@ import Platform from "../components/Platform";
 import Idea from "../components/Idea"
 import Penny from "../components/Penny";
 import Longercards from "../components/Longercards";
-import Foot from "../components/Foot";
+
 
 
 // import Cta from "../components/cta"
@@ -32,7 +32,7 @@ export default function Home() {
       <Idea/>
       <Penny/>
      <Longercards/>
-     <Foot/>
+  
 
       
     </div>

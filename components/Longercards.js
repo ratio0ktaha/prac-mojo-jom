@@ -1,6 +1,8 @@
 import styles from"../styles/Longercards.module.css";
 import images from "../public/images/sleeping.png";
 import images1 from "../public/images/wahman.png";
+import images2 from "../public/images/swag.png";
+
 import Image from "next/image";
 
 import React from 'react'
@@ -15,8 +17,8 @@ export default function Longercards() {
                 <p className={styles.b}>For Startups & SMEs</p>
                 <div className=".styles.mon">
                 <p className={styles.c}>$</p>
-                <p className={styles.d}>90</p>
-                <p className={styles.e}>billed yearly</p>
+                <p className={styles.d}>10</p>
+                <p className={styles.e}>/Mon</p>
                 </div>
                 <button className={styles.f}><b>Chosse</b></button>
                 <div className={styles.words}>
@@ -58,22 +60,114 @@ export default function Longercards() {
                 <div className=".styles.tue">
                 <p className={styles.cc}>$</p>
                 <p className={styles.dd}>0</p>
-                <p className={styles.ee}>billed</p>
+                <p className={styles.ee}>/Mon</p>
                 
                 <button className={styles.ff}><b>Chosse</b></button>
                 <div className={styles.words}>
-                    
+                <img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-img1-mZlt5N3G4Gj3wd4.png"/>
+                <div className={styles.dede}>5 queries/mo in Topic Model   </div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-img2-gSsDl9Tny1jBuBg.png"/>
+<div className={styles.dede}>US, UK, CA and AU supported</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-img4-k5DKKhFAtPze2Td.png"/>
+<div className={styles.dede}>Search listening</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-img3-WSchKODD73CLIBF.png"/>
+<div className={styles.dede}>Live Chat Support</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.dede}>Single Workspace</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.dede}>Free SEO Writer</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.dede}>Outline not available</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.dede}>SEO data</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.dede}>All data sources included</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.dede}>All languages supported</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.dede}>Team members</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.dede}>Custom domain</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.dede}>Shareable reports</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcross-labNDu3tfBFGqMS.png"/>
+<div className={styles.dede}>CSV Exports</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcross-labNDu3tfBFGqMS.png"/>
+<div className={styles.dede}>Priority support</div>  
+
+</div>
+
+
                 </div>
+
+
+
+
+
+
+         
+
+
+
                 
-                </div>
-        
+                
+             
+
+
                
                   
            
           
     </div>
+
+
+
+
+    <div className={styles.output3}>
+                <Image className={styles.images2} src={images2}/>
+                <h2 className={styles.aaa}>Pro</h2>
+                <p className={styles.bbb}>For Brands & Agencies</p>
+                <div className=".styles.wed">
+                <p className={styles.ccc}>$</p>
+                <p className={styles.ddd}>49.50</p>
+                <p className={styles.eee}>/Mon</p>
+                <button className={styles.fff}><b>Chosse</b></button>
+                 <div className={styles.words}>
+                <img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-img1-mZlt5N3G4Gj3wd4.png"/>
+                <div className={styles.spine}>5 queries/mo in Topic Model   </div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-img2-gSsDl9Tny1jBuBg.png"/>
+<div className={styles.spine}>US, UK, CA and AU supported</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-img4-k5DKKhFAtPze2Td.png"/>
+<div className={styles.spine}>Search listening</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-img3-WSchKODD73CLIBF.png"/>
+<div className={styles.spine}>Live Chat Support</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.spine}>Single Workspace</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.spine}>Free SEO Writer</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.spine}>Outline not available</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.spine}>SEO data</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.spine}>All data sources included</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.spine}>All languages supported</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.spine}>Team members</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.spine}>Custom domain</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcheck-kV7gbwkFy5vCmyQ.png"/>
+<div className={styles.spine}>Shareable reports</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcross-labNDu3tfBFGqMS.png"/>
+<div className={styles.spine}>CSV Exports</div> 
+<img src="https://d21b0h47110qhi.cloudfront.net/old-free/list-imgcross-labNDu3tfBFGqMS.png"/>
+<div className={styles.spine}>Priority support</div>  
+
+                </div>
+                </div>
     </div>
-            
+            </div>
     );
 }
 

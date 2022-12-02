@@ -1,33 +1,16 @@
-
-5 queries/mo in Topic Model                 <div className={styles.dede}>5 queries/mo in Topic Model   </div> 
- 
-
-5 queries/mo in Questions Finder
+<div className={styles.dede}>5 queries/mo in Topic Model   </div> 
 <div className={styles.dede}>5 queries/mo in Questions Finder</div> 
-US, UK, CA and AU supported
-<div className={styles.dede}></div> 
-Search listening
-<div className={styles.dede}></div> 
-Live Chat Support
-<div className={styles.dede}></div> 
-Single Workspace
-<div className={styles.dede}></div> 
-Free SEO Writer
-<div className={styles.dede}></div> 
-Outline not available
-<div className={styles.dede}></div> 
-SEO data
-<div className={styles.dede}></div> 
-All data sources included
-<div className={styles.dede}></div> 
-All languages supported
-<div className={styles.dede}></div> 
-Team members
-<div className={styles.dede}></div> 
-Custom domain
-<div className={styles.dede}></div> 
-Shareable reports
-<div className={styles.dede}></div> 
-CSV Exports
-<div className={styles.dede}></div> 
-Priority support<div className={styles.dede}></div> 
+<div className={styles.dede}>US, UK, CA and AU supported</div> 
+<div className={styles.dede}>Search listening</div> 
+<div className={styles.dede}>Live Chat Support</div> 
+<div className={styles.dede}>Single Workspace</div> 
+<div className={styles.dede}>Free SEO Writer</div> 
+<div className={styles.dede}>Outline not available</div> 
+<div className={styles.dede}>SEO data</div> 
+<div className={styles.dede}>All data sources included</div> 
+<div className={styles.dede}>All languages supported</div> 
+<div className={styles.dede}>Team members</div> 
+<div className={styles.dede}>Custom domain</div> 
+<div className={styles.dede}>Shareable reports</div> 
+<div className={styles.dede}>CSV Exports</div> 
+<div className={styles.dede}>Priority support</div> 

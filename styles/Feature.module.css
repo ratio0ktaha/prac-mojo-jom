@@ -7,6 +7,7 @@
   
   
   .top {
+    
     position:absolute;
     top: 50px;
     left: 100px;
@@ -28,6 +29,7 @@
    /* left:100px; */
    /* right:100px; */
    padding: 30px;
+
   } 
   .full_width{
     width: 100%;
@@ -37,11 +39,14 @@
   }
 
    .whitebar img {
+    object-fit:contain;
     margin:0px 40px;
    }
 .img_width {
     width: 100%;
     max-width: 100%;
+    /* object-fit:contain; */
+   
 }
 
 

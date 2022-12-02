@@ -19,18 +19,16 @@
             
 
         }
-        /* .mon{display: flex;
-        flex-direction: row;} */
-
+     
         .c{position: relative;
             left: -16px;
-            top: -2px;
-    color: white;
+            top: -12px;
+    color: rgb(0, 0, 0);
          font-size: 20px;}
 
          .d  { position: relative;
- 
- top: -50px;           left: -10px;
+         top: -50px;          
+         left: -10px;
          color: white;
          font-size: 100px;
          margin: 1px;
@@ -38,12 +36,13 @@
 
         .e {  position: relative;
             left: 100px;
-            top: -93px;
-            color: white;
+            top: -120px;
+            color: rgb(255, 255, 255);
+            font-size: 25px;
         }
 
         .f{position: relative;
-            top:-80px;
+            top: -105px;
             background-color: white;
             color: rgb(0, 0, 0);
             padding: 15px 120px 15px 120px;
@@ -52,13 +51,13 @@
             cursor: pointer;
         }
         .words {
-              color: white;
+              color: rgb(255, 255, 255);
 }
 .tap{
     position: relative;
     top: -20px;
     left: 20px;
-    /* margin-top: 20px;/ */
+    /* margin-top: 20px; */
     
 
 }
@@ -77,9 +76,10 @@
 
     .aa{position: relative;
         left: -1px;
-        color: rgb(1, 0, 0);}
-    .bb{position: relative;
-        left: -1px;
+        color: rgb(1, 0, 0);} 
+    .bb{
+         position: relative; 
+         left: -1px; 
         color: gray;}
     .cc{position: relative;
         left: -16px;
@@ -87,24 +87,100 @@
 color: white;
      font-size: 20px;}
     .dd{position: relative;
-                   top: -50px;        
+                   top: -70px;        
                   left: -10px;
                 color: white;
                 font-size: 100px;
                 margin: 1px;}
-    .ee{position: relative;
-        left: 100px;
-        top: -93px;
-        color: white;}
-
+    .ee{  position: relative;
+        left: 60px;
+        top: -150px;
+        color: rgb(110, 109, 109);
+        font-size: 29px;
+    }
         
     .ff{position: relative;
-        top:-80px;
-        background-color: rgb(0, 0, 0);
-        color: rgb(240, 240, 240);
+        top:-105px;
+        background-color: white;
+        color: rgb(0, 0, 0);
         padding: 15px 120px 15px 120px;
         /* border-color: chartreuse; */
         border-radius: 30px;
+        cursor: pointer;
+        
+        /* border-color: chartreuse;  */
+        border-radius: 30px;
         cursor: pointer;}
 
+        .words {
+            color: white;
+}
+.dede{
+    position: relative;
+  top: -20px;
+  left: 20px;
+}
       
+
+
+
+.output3{  
+    background-color: rgb(187, 187, 187);
+    max-width: 100%;
+    border-radius: 77px;
+    width: 370px;
+
+    margin: 20px auto 10px auto;
+    padding: 35px 42px;}
+
+     .aaa{position: relative;
+        left: -1px;
+        color: rgb(0, 0, 0);}
+    .bbb{position: relative;
+        left: -1px;
+        color: rgb(0, 0, 0);}
+    .ccc{position: relative;
+        left: -16px;
+        top: -2px;
+color: rgb(0, 0, 0);
+     font-size: 20px;} 
+    .ddd{
+        position: relative;
+                   top: -50px;        
+                  left: -10px;
+                color: rgb(0, 0, 0);
+                font-size: 50px; 
+                margin: 1px;}
+     .eee{  position: relative;
+        left: 130px;
+        top: -100px;
+        color: rgb(110, 109, 109);
+        font-size: 30px;
+        
+    }
+
+        
+    .fff{position: relative;
+        top:-50px;
+        background-color: white;
+        color: rgb(0, 0, 0);
+        padding: 15px 120px 15px 120px;
+        /* border-color: chartreuse; */
+        border-radius: 30px;
+        cursor: pointer;
+    margin-top:-1;}
+
+        .words {
+            color: rgb(252, 244, 244);
+}
+.spine{
+    position: relative;
+    top: -30px;
+    left: 20px;
+/* margin-top:0px ;} */}
+  
+
+  .parental{
+    display: flex;
+    flex-direction: row;
+  }
