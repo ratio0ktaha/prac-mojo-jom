@@ -18,8 +18,9 @@ const Platform = () => {
       
       
       <div>
+        <div className={styles.black}>
       <Image className={styles.color_img} src={p_one} />
-
+</div>
 
       <h4 className={styles.first}>Saved List</h4>
       <p className={styles.all}>
@@ -28,7 +29,9 @@ const Platform = () => {
       </p>
     </div>
     <div>
+    <div className={styles.black}>
         <Image className={styles.color_img} src={p_two} />
+        </div>
 
 
         <h4 className={styles.first}>Workspaces</h4>
@@ -38,7 +41,9 @@ const Platform = () => {
         </p>
       </div>
       <div>
+      <div className={styles.black}>
         <Image className={styles.color_img} src={p_three} />
+        </div>
 
 
         <h4 className={styles.first}>Teams</h4>
@@ -49,8 +54,9 @@ const Platform = () => {
 
       </div>
       <div>
+      <div className={styles.black}>
         <Image className={styles.color_img} src={p_four} />
-
+</div>
         <h4 className={styles.first}>Priority Support</h4>
         <p className={styles.all}>
           We are here for you 24/7 with priority support to help and resolve
@@ -58,8 +64,9 @@ const Platform = () => {
         </p>
       </div>
       <div>
+      <div className={styles.black}>
         <Image className={styles.color_img} src={p_five} />
-
+           </div>
         <h4 className={styles.first}>30-day History</h4>
         <p className={styles.all}>
           You can maintain your report's history that allows you to see what
@@ -67,16 +74,18 @@ const Platform = () => {
         </p>
       </div>
       <div>
+      <div className={styles.black}>
         <Image className={styles.color_img} src={p_six} />
-
+           </div>
         <h4 className={styles.first}>CSV Export</h4>
         <p className={styles.all}>
           You can export almost everything from your report in CSV format.
         </p>
       </div>
       <div>
+      <div className={styles.black}>
         <Image className={styles.color_img} src={p_seven} />
-
+             </div>
 
         <h4 className={styles.first}>Custom Domains</h4>
         <p className={styles.all}>
@@ -85,7 +94,9 @@ const Platform = () => {
         </p>
       </div>
       <div>
+      <div className={styles.black}>
         <Image className={styles.color_img} src={p_eight} />
+        </div>
         <h4 className={styles.first}>Languages</h4>
         <p className={styles.all}>
           You can generate reports for 35 different languages with our
@@ -93,8 +104,9 @@ const Platform = () => {
         </p>
       </div>
       <div>
-
+      <div className={styles.black}>
         <Image className={styles.color_img} src={p_nine} />
+        </div>
         <h4 className={styles.first}>Countries</h4>
         <p className={styles.all}>
           Generate your report in any country of the world. We are
