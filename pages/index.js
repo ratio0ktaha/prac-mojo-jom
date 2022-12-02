@@ -11,7 +11,7 @@ import Platform from "../components/Platform";
 import Idea from "../components/Idea"
 import Penny from "../components/Penny";
 import Longercards from "../components/Longercards";
-import Footer from "../components/footer";
+import Footer from "../components/Footer";
 
 
 

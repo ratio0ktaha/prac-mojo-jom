@@ -1,4 +1,4 @@
-import styles from "../styles/transition1.module.css";
+import styles from "../styles/Transition1.module.css";
 
 const Buttons = () => {
   return (

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "../styles/transition1.module.css";
+import styles from "../styles/Transition1.module.css";
 import Buttons from "./Button";
 import main1 from "../public/images/main1.png";
 import main2 from "../public/images/main2.png";
