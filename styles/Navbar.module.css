@@ -38,11 +38,34 @@
   display:flex;
   
 }  
+.ham{
+  display: none;
+}
   
-  
+@media screen and (max-width: 750px) {
+  .flex_cards {
+    display: block;
+    align-items: center;
+    margin: 0px auto;
+     border: 1px solid black; 
+    justify-content: center;
+    width: 600px;
+    max-width: 100%;
+  }
+  .navbar_items{
+     /* background-color: red;  */
+   display: none; 
+   }
+  .navbar{
+    justify-content: space-between;
+    padding: 50px 50px;
+  }
+  .dashboard_button{
+    display: none;
+  }
+  .ham{
+    display: flex;
+  }
+}
+
     
-  
-  
-  
-  
-  

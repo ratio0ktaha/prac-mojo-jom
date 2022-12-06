@@ -1,4 +1,6 @@
 import styles from "../styles/Navbar.module.css"
+import {GiHamburgerMenu} from "react-icons/gi"
+
 
 
 
@@ -18,6 +20,7 @@ export default function  Navbar (){
     </div>
 
     <div>
+      <GiHamburgerMenu className={styles.ham} />
       <button className={styles.dashboard_button}>Dashboard</button>
     </div>
   </div>

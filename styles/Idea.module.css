@@ -6,9 +6,6 @@ width: 100%;
 max-width: 100%;
 position: relative;
 height: auto;
-max-width: 100%;
-    width: 100%;
-    height: 400px;
 
 }
 
@@ -21,7 +18,7 @@ max-width: 100%;
     margin: -34px auto 0px;
     text-align: center;
     position: relative;
-    top: -550px;
+    top: -500px;
     justify-content: space-between;
 }
 
@@ -43,7 +40,7 @@ max-width: 100%;
 
 .flexer p{font-size: 26px;
 }
-.bg{ padding: 100px 50px 50px px;
+.bg{ padding: auto
 }
 .owner{
     padding: 10px;

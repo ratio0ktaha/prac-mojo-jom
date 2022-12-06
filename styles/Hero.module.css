@@ -14,11 +14,16 @@
   border-radius: 6px;
   color: #fff;
   font-size: 18px;
-  border: none;
+  /* border: none; */
   cursor: pointer;
   margin-top:60px;
 }
 
+.star {
+  justify-content: space-between;
+  display: flex;
+  /* border: 1px solid black; */
+    }
 
 
 
@@ -35,18 +40,46 @@
 
 .identifying {
   margin: 100px 100px 100px 100px;
-width:500px;
+width:450px;
 max-width: 100%;
 }
 .star {
   display:flex;
-  justify-content:space-between ;
-  flex-direction: row;
+  /* justify-content:space-between ; */
+  /* flex-directio+n: row; */
   
 }
 .identifying h1{
   font: size 22px;
 }
+
+@media screen and (max-width: 750px) {
+  .image_target{
+    display: none;
+    
+  }
+
+  .black_box_button {
+    display: flex;
+    position: relative;
+    left: 70px;
+   
+  }
+  .first_box{
+    text-align: center;
+  }
+  .star {
+    display:flex;
+    justify-content:space-between ;}
+  
+
+  
+}
+
+
+
+
+
 
 
 

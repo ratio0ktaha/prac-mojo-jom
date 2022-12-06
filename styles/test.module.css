@@ -1,0 +1,10 @@
+@media screen and (max-width: 500px) {
+   .container {
+      background-color: lightgreen;
+      margin-top: 20rem;
+    }
+    .container h1{
+        font-size: 58px;
+        text-align: center;
+    }
+  }

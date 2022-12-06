@@ -14,27 +14,24 @@ import Longercards from "../components/Longercards";
 import Footer from "../components/Footer";
 
 
-
-// import Cta from "../components/cta"
-
 export default function Home() {
   return (
     <div>
-      {/* <Cta/> */}
       <Navbar />
       <Hero />
-      <Feature />
+        <Feature /> 
       <Icondisplay />
-      <Transition1 />
-      <Cta />
-      <Feature2 />
-      <Cards />
-      <Platform/>
-      <Idea/>
-      <Penny/>
-     <Longercards/>
-     <Footer/>
-  
+     <Transition1 /> 
+       <Cta /> 
+      {/* <Feature2 /> */}
+      {/* <Cards /> */}
+      {/* <Platform/> */}
+      {/* <Idea/> */}
+      {/* <Penny/> */}
+     {/* <Longercards/> */}
+     {/* <Footer/>  */}
+    
+    
 
       
     </div>

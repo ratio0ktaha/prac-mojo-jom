@@ -13,9 +13,10 @@ export default function Hero() {
         <button className={herostyles.black_box_button}>Get Started at $10/mo</button>
 
           <div className={herostyles.star}>
-          <p>Trusted by 19000+ users </p>
-            <img src="images/star 5.png" alt="stars" />
-          <img src="images/star.png" alt="stars" />
+          <span>Trusted by 19000+ users </span>
+          <img src="https://topic-mojo-df19jumbj-mhassankhanw3-gmailcom.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstars.a60f035c.png&w=256&q=75" />
+            {/* <img src="images/star 5.png" alt="stars" />
+          <img src="images/star.png" alt="stars" /> */}
           </div>
           
            
@@ -26,5 +27,7 @@ export default function Hero() {
         <img src="images/hero_img.png" alt="target" />
       </div>
     </div>
+
+    
   );
 }
