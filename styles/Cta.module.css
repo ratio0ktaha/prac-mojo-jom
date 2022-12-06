@@ -8,7 +8,7 @@
     max-width: 100%;
     width: 10000px;
     height: 500px;
-    /* position :absolute; */
+    position :absolute;
    
 
 
@@ -20,9 +20,9 @@
     justify-content: center;
     /* border: 1px solid black; */
     /* max-width: 100%; */
-    /* width:1400px; */
+    width:1800px;
     margin: 100px;
-    position:absolute;
+    /* position:absolute; */
     /* top: -30px; */
     z-index: 1;
 
