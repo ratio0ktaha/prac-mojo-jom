@@ -55,8 +55,8 @@ height: 600px;
 
 
 @media screen and (max-width: 750px) {
-    .bg{max-width: 10000px;
-    width: 10000px;
+    .bg{max-width: 2000px;
+    width: 2000px;
 }
 
 .flexer{
