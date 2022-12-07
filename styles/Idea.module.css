@@ -2,7 +2,7 @@
 
 
 .bg{
-width: 10000px;
+width: 100%;
 max-width: 100%;
 position: relative;
 height: auto;
@@ -22,27 +22,6 @@ height: 600px;
     position: relative;
     top: -500px;
     justify-content: space-between;
-    
-}
-.non{
-    padding: 100px;
-    margin:100px;
-    position: fixed;
-    position: fixed;
-    z-index: 2147483003;
-    padding: 0 !important;
-    margin: 0 !important;
-    border: none;
-    bottom: 20px;
-    right: 20px;
-    max-width: 48px;
-    width: 48px;
-    max-height: 48px;
-    height: 48px;
-    border-radius: 50%;
-    background: #FF9D9D;
-    cursor: pointer;
-    
 }
 
 
@@ -63,40 +42,40 @@ height: 600px;
 
 .flexer p{
     font-size: 26px;
-}
+ } 
 
-
+ 
 .owner{
     padding: 10px;
     position: relative;
     top: 80px;
-}
+} 
 
 
 
 
 @media screen and (max-width: 750px) {
-    .bg{width: 100%;
-        max-width: 100%;
-        /* position: relative; */
-        height: 750px;}
+    .bg{max-width: 10000px;
+    width: 10000px;
+}
+
+.flexer{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 500px;
+    top: -550px;
+    align-items: center;
 
 
-        .flexer{
-      text-align: center;
-            top: -600px;
-           
+
+
+     
         }
-
 }
 
 
-
-
-
-
-
-
+ 
 
 
 

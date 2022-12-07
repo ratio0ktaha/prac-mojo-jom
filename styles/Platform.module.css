@@ -39,7 +39,17 @@ font-weight: 700;
 .first{
   font-weight: 100px;
 }
-/* .all{
+  
+  
+@media screen and (max-width: 750px) {
 
+  .glimpse{
+    display: flex;
+    flex-direction: column;
+  justify-content: center;
+    position: relative;
+    left: 500px;
 
-} */
+}
+  
+}

@@ -9,9 +9,6 @@ import snow from "../public/images/non.png";
 const Idea = () => {
     return (
 <div className={styles.owner}>
-<div>
-<Image className={styles.non} src={snow} />
-</div>
     <div>
 <Image className={styles.bg} src={bg} />
 </div>

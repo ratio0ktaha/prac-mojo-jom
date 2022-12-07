@@ -81,9 +81,17 @@ padding-right: 50px;
     
   
     background-color: black;
-    box-sizing: border-box;
-    
-    
-   
+    box-sizing: border-box;} 
 
+
+@media screen and (max-width: 750px) {
+    .over{
+        /* display: flex; */
+    flex-direction: column;
+    /* justify-content: center; */
+    position: relative;
+    left: 500px;
+    bottom: 60px;
+    align-items: center;
+}
 }

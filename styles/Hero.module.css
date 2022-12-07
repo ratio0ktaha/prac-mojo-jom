@@ -58,11 +58,17 @@ max-width: 100%;
     display: none;
     
   }
+  .identifying{
+    position: relative;
+    left: 500px;
+  }
 
   .black_box_button {
     display: flex;
     position: relative;
-    left: 70px;
+    left: 10px;
+    justify-content: center
+    ;
    
   }
   .first_box{

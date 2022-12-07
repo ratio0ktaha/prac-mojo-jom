@@ -44,11 +44,13 @@
 }
   
 @media screen and (max-width: 750px) {
-  .flex_cards {
+  .navbar {
+    position: relative;
+    left: 500px;
     display: block;
     align-items: center;
     margin: 0px auto;
-     border: 1px solid black; 
+     /* border: 1px solid black;  */
     justify-content: center;
     width: 600px;
     max-width: 100%;
