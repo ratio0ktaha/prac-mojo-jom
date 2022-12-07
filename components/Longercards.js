@@ -2,14 +2,18 @@ import styles from"../styles/Longercards.module.css";
 import images from "../public/images/sleeping.png";
 import images1 from "../public/images/wahman.png";
 import images2 from "../public/images/swag.png";
+import snowman from "../public/images/non.png";
 
 import Image from "next/image";
 
 import React from 'react'
 
 export default function Longercards() {
+
     return (
         <div className={styles.parental}>
+           
+            
 
 <div className={styles.output2}>
                 <Image className={styles.wahman} src={images1}/>

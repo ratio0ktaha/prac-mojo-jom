@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import logo from "../public/images/TOPICMOJO_ICON.png";
 import styles from "../styles/Footer.module.css";
+import snowman from "../public/images/non.png";
 
 const Footer = () => {
   return (
@@ -95,7 +96,13 @@ const Footer = () => {
         <div className={styles.footer_text}>
             <p>Copyright TopicMojo 2021 . All rights Reserved. </p>
         </div>
+    
+    <div className={styles.non}>
+    <Image className={styles.non} src={snowman}/>
+
+
     </div>
+</div>
   );
 };
 

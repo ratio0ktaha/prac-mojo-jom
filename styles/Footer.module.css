@@ -1,3 +1,8 @@
+.non{display: flex;
+position: fixed;}
+
+
+
 .main_footer{
     /* border: 1px solid red; */
     width: 100%;
@@ -112,6 +117,10 @@
   
   
   @media screen and (max-width: 750px) {
+    .main_footer{
+      position: relative;
+      left: 500px;
+    }
     .footer {
       display: block;
       align-items: center;
