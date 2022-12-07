@@ -8,8 +8,7 @@ export default function Feature2() {
       <div className={styles.allin}>
         <div className={styles.header}>
           <h2>
-            Data Sources that
-            <br /> we support
+            Data Sources that we support
           </h2>
         </div>
         <div className={styles.paragraph}>

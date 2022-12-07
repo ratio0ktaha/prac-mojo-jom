@@ -4,6 +4,9 @@ import Buttons from "./Button";
 import main1 from "../public/images/main1.png";
 import main2 from "../public/images/main2.png";
 import main3 from "../public/images/main3.png";
+
+
+
 const Topics = () => {
   return (
     
@@ -52,6 +55,7 @@ const Topics = () => {
           </div>
           <div className={styles.img}>
             <Image className={styles.img_img} src={main3} />
+
           </div>
         </div>
       </div>

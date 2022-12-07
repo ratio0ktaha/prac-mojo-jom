@@ -22,14 +22,14 @@ export default function Home() {
         <Feature /> 
       <Icondisplay />
      <Transition1 /> 
-       <Cta /> 
-      {/* <Feature2 /> */}
-      {/* <Cards /> */}
-      {/* <Platform/> */}
-      {/* <Idea/> */}
-      {/* <Penny/> */}
-     {/* <Longercards/> */}
-     {/* <Footer/>  */}
+         <Cta />   
+        <Feature2 />   
+        <Cards />  
+       <Platform/> 
+      <Idea/>  
+      <Penny/>  
+     <Longercards/> 
+      <Footer/>  
     
     
 

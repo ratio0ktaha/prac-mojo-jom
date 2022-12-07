@@ -80,8 +80,8 @@
 }
 @media screen and (max-width: 750px) {
   .flex_one {
-    /* display: flex;
-    flex-wrap: wrap; */
+    display: flex;
+    flex-wrap: wrap; 
     display: block;
     align-items: center;
     justify-content: center;
@@ -92,7 +92,7 @@
     /* border: 1px solid black; */
   }
   .flex_one .img .img_img {
-    /* border: 1px solid black; */
+     border: 1px solid black; 
     width: 400px;
     height: auto;
     max-width: 100%;
@@ -229,7 +229,7 @@
   }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 750px) {
   .bground {
     height: 750px ;
     /* display: none; */

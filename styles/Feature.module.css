@@ -14,6 +14,7 @@
   width: 100%;
   margin: auto;
   justify-content: center;
+  object-fit: cover;
 }
   
   
@@ -47,7 +48,7 @@
 
    .whitebar img {
     object-fit: contain;
-    margin:0px 40px;
+    margin:8px 40px;
    }
 .img_width {
 
@@ -70,6 +71,9 @@
       display: flex;   
        flex-direction: row-reverse;
 
+  }
+  .whitebar img{
+    width: 170px;
   }
 }
   
