@@ -291,7 +291,7 @@
 .block {
   display: block;
   /* border: 1px solid red; */
-  width: 500px;
+  /* width: 500px; */
   /* margin-left: 150px; */
 }
 .block h2 {
