@@ -8,6 +8,7 @@
 }
 
 .black_box_button {
+  border: none;
   /* display: flex; */
   background-color: #282a3a;
   padding: 14px 24px;
