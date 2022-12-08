@@ -4,16 +4,15 @@
    /* flex-direction: row; */
    justify-content: center;
    margin: auto;
-   width: 1000px;
+   width: 1200px;
 
    max-width: 100%;
-   width: auto;
    border: 1px solid rgb(244, 244, 244);;
  }
  .pure div {
     border: 1px solid rgb(255, 255, 255);
     padding: 22px;
-    width: 500px;
+    width: 380px;
     
     /* width: 300px; */
  }
