@@ -92,7 +92,7 @@
     /* border: 1px solid black; */
   }
   .flex_one .img .img_img {
-     border: 1px solid black; 
+     /* border: 1px solid black;  */
     width: 400px;
     height: auto;
     max-width: 100%;
@@ -110,7 +110,7 @@
   }
   .block p {
     margin: 16px auto !important;
-    border: 2px solid brown;
+    /* border: 2px solid brown; */
     width: 300px !important;
   }
   .buttons {
