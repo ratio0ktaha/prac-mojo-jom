@@ -48,7 +48,7 @@ height: 600px;
 .owner{
     padding: 10px;
     position: relative;
-    top: 80px;
+    top: 140px;
 } 
 .non {    position: fixed;
     z-index: 2147483003;
