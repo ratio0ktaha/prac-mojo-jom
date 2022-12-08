@@ -89,9 +89,9 @@ padding-right: 50px;
         /* display: flex; */
     flex-direction: column;
     /* justify-content: center; */
-    position: relative;
-    left: 500px;
-    bottom: 60px;
+    /* position: relative; */
+    /* left: 500px; */
+    /* bottom: 60px; */
     align-items: center;
 }
 }

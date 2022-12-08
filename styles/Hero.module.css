@@ -8,7 +8,7 @@
 }
 
 .black_box_button {
-  display: flex;
+  /* display: flex; */
   background-color: #282a3a;
   padding: 14px 24px;
   border-radius: 6px;
@@ -58,15 +58,15 @@ max-width: 100%;
     display: none;
     
   }
-  .identifying{
+  /* .identifying{
     position: relative;
     left: 500px;
-  }
+  } */
 
   .black_box_button {
-    display: flex;
-    position: relative;
-    left: 10px;
+    /* display: flex; */
+    /* position: relative;
+    left: 10px; */
     justify-content: center
     ;
    
@@ -75,7 +75,7 @@ max-width: 100%;
     text-align: center;
   }
   .star {
-    display:flex;
+    /* display:flex; */
     justify-content:space-between ;}
   
 

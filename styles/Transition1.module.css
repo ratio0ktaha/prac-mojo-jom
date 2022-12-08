@@ -230,8 +230,8 @@
 }
 
 @media screen and (max-width: 750px) {
-  .topics{position: relative;
-  left: 500px;}
+  /* .topics{position: relative;
+  left: 500px;} */
   .bground {
     height: 750px ;
     /* display: none; */

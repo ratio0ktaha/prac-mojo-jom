@@ -55,16 +55,18 @@ height: 600px;
 
 
 @media screen and (max-width: 750px) {
-    .bg{max-width: 2000px;
-    width: 2000px;
+    .bg{
+        max-width: 100%;
+        /* max-width: 2000px; */
+    /* width: 2000px; */
 }
 
 .flexer{
     display: flex;
     flex-direction: column;
-    position: relative;
-    left: 500px;
-    top: -550px;
+    /* position: relative; */
+    /* left: 500px; */
+    /* top: -550px; */
     align-items: center;
 
 

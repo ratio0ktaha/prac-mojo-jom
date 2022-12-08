@@ -6,13 +6,13 @@
    margin: 100px auto 100px auto;
 
    max-width: 100%;
-   width: 1200px;
+   width: auto;
    border: 1px solid rgb(244, 244, 244);;
  }
  .pure div {
     border: 1px solid rgb(255, 255, 255);
     padding: 22px;
-    width: 300px;
+    /* width: 300px; */
  }
 
  .joji{ margin: 151px 0px 0px 0px;
@@ -47,10 +47,17 @@ font-weight: 700;
   .glimpse{
     display: flex;
     flex-direction: column;
-  justify-content: center;
-    position: relative;
-    left: 500px;
+  /* justify-content: center; */
+  margin: auto;
+  text-align: center;
+    /* position: relative;
+    left: 500px; */
 
+}
+.black{
+  display: flex;
+  align-items: center;
+  margin:auto;
 }
   
 }

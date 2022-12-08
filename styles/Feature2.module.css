@@ -41,8 +41,8 @@
   
   
   .flex{
-    position: relative;
-    left: 500px;
+    /* position: relative;
+    left: 500px; */
     display: flex;
     flex-direction: column;
     justify-content: center;

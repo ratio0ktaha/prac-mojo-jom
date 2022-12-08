@@ -45,11 +45,11 @@
   
 @media screen and (max-width: 750px) {
   .navbar {
-    position: relative;
-    left: 500px;
-    display: block;
+    /* position: relative;
+    left: 500px; */
+    display: flex;
     align-items: center;
-    margin: 0px auto;
+    margin:auto;
      /* border: 1px solid black;  */
     justify-content: center;
     width: 600px;

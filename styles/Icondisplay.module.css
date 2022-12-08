@@ -55,25 +55,11 @@
     .flex{
   display: flex;
       flex-direction: column;
-    position: relative;
-  left: 500px;}
+    }
 
       .block {
       
         margin: 1px 1px 1px 1px;
       }
     }
-  
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-

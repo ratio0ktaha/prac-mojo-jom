@@ -117,10 +117,10 @@ position: fixed;}
   
   
   @media screen and (max-width: 750px) {
-    .main_footer{
+    /* .main_footer{
       position: relative;
       left: 500px;
-    }
+    } */
     .footer {
       display: block;
       align-items: center;
