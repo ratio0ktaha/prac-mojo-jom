@@ -17,6 +17,7 @@
   /* border: none; */
   cursor: pointer;
   margin-top:60px;
+  border-radius: 25px;
 }
 
 .star {
@@ -29,7 +30,8 @@
     align-content: flex-end;
     align-items: center;
     flex-wrap: nowrap;
-    flex-direction: row;
+    flex-direction: column
+
     }
 
 
@@ -84,7 +86,8 @@ max-width: 100%;
   }
   .star {
     /* display:flex; */
-    justify-content:space-between ;}
+    justify-content:space-between ;
+  }
   
 
   
