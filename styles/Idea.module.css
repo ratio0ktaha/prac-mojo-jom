@@ -50,6 +50,20 @@ height: 600px;
     position: relative;
     top: 80px;
 } 
+.non {    position: fixed;
+    z-index: 2147483003;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none;
+    bottom: 20px;
+    right: 20px;
+    max-width: 48px;
+    width: 48px;
+    max-height: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: #FF9D9D;
+    cursor: pointer;}
 
 
 

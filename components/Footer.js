@@ -97,11 +97,7 @@ const Footer = () => {
             <p>Copyright TopicMojo 2021 . All rights Reserved. </p>
         </div>
     
-    <div className={styles.non}>
-    <Image className={styles.non} src={snowman}/>
-
-
-    </div>
+  
 </div>
   );
 };
