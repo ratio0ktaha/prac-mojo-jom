@@ -52,7 +52,7 @@
     
 
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 480px) {
     .text{
         /* position: relative;
         left:500px; */
@@ -60,12 +60,12 @@
         flex-direction: column;
         margin: auto;
         /* justify-co/ntent: center; */
-        text-align: center;
-        margin-top: 150px;
-        /* font-size: 12px; */
+        /* text-align: center; */
+        margin-top: 140px;
+        font-size: 12px;
     }
     .bgimg img{
-        max-width: 100%;
+        /* max-width: 100%; */
         /* max-width: 2000px; */
         /* width: 2000px; */
         height: 500px;

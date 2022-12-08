@@ -202,13 +202,13 @@ position: fixed;}
   
 
 
-  @media screen and (max-width: 750px) {
+  @media screen and (max-width: 480px) {
     .parental{display: flex;
-    flex-direction: column;
-    justify-content: center;
-/* position: relative; */
-/* left: 100px; */
-    /* align-items: center; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+position: relative;
+left: -50px;
+    align-items: center;
 }
   }
 

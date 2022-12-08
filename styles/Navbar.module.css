@@ -43,7 +43,7 @@
   display: none;
 }
   
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 480px) {
   .navbar {
     /* position: relative;
     left: 500px; */

@@ -68,7 +68,7 @@ height: 600px;
 
 
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 480px) {
     .bg{
         max-width: 100%;
         /* max-width: 2000px; */

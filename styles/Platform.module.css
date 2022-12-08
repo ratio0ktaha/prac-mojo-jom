@@ -45,7 +45,7 @@ font-weight: 700;
 
   
   
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 480px) {
 
   .glimpse{
     display: flex;

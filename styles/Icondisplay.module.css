@@ -40,18 +40,15 @@
       display: flex;
       align-items: center;
       justify-content: center;
-            margin: 50px auto 50px auto;
-            margin-top: 130px;
-            /* border: 1px solid black; */
-      width: 1280px;
-      max-width: 100%;
-  }
-   .flex{
-      flex-direction: row;
+            margin: auto;           
+             margin-top: 100px;
+             max-width: 100%;
+             width: 1000px;
+          
   
     }
   
-    @media screen and (max-width: 750px) {
+    @media screen and (max-width: 480px) {
     .flex{
   display: flex;
       flex-direction: column;

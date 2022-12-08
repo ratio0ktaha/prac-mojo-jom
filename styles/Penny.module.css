@@ -85,7 +85,7 @@ padding-right: 50px;
     box-sizing: border-box;} 
 
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 480px) {
     .over{
         /* display: flex; */
     flex-direction: column;

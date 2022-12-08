@@ -19,7 +19,7 @@ const Idea = () => {
 <button className={styles.button90}>Get Started with $10/mo</button> 
 {/* <button className={styles.button1}>Get the tool in pocket friendly pricing</button>  */}
 <div className={styles.man}>
-<Image className={styles.non} src={snow}/>
+ <Image className={styles.non} src={snow}/> 
 
 </div>
 

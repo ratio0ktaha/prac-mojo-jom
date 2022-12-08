@@ -115,7 +115,7 @@ position: fixed;}
   }
   
   
-  @media screen and (max-width: 750px) {
+  @media screen and (max-width: 480px) {
     /* .main_footer{
       position: relative;
       left: 500px;
